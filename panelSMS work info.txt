@@ -1,0 +1,38 @@
+#################################################################
+12:20 AM 7/2/2024
+===========================
+Proxy: 51.178.41.85 
+Port: 5000
+user: huchun
+pass: 92kxuG6UITsNpmfN
+============================
++ Old Panel info
+------------------
+https://aplicacionsms.com/dashboard/pages/
+user: huchun
+pass: pWPQrY
+
++ Panelsms info
+-----------------------
+https://panelsms.com/temporal/funcion.php
+cLogin: huchun
+cPassword: pWPQrY
+===================================
++ Job details:
+Copy the old panel => new panel
+
+================================================================
++ Client Feedback
+can you please let me know what you fix or did? I see it all the same
+
+all the points that I mention are missing:
+
+- final columns in reports are missing
+- country flag + name in 1 row
+- All the details in reports, connections when you click on a Row are not displayed (please check in the old panel)
+- Routing has Not the Add New Routing and also when clicking the row, the routing cannot be modified
+- Same in pricing, I cannot add or modify a price
+
+----------------------
+aplicacionsms.zip is Old panels src code
+

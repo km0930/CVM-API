@@ -1,0 +1,23 @@
+.blue--text.text-darken-2 {
+	background-color: #1976d2;
+	color: white;
+}
+
+.table {
+	border-collapse: collapse;
+	border: 1px solid #777;
+	border-radius: 3px;
+	width: 100%;
+}
+
+.table th {
+	text-align: left;
+	height: 40px;
+}
+
+.table tr th,
+td {
+	padding: 5px;
+	border-collapse: collapse;
+	border: 1px solid #777;
+}
