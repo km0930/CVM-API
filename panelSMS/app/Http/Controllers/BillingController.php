@@ -8,9 +8,6 @@ use Illuminate\Support\Facades\Validator;
 
 class BillingController extends Controller
 {
-    /**
-    * billingDefaults API
-    */
     public function billingDefaults(Request $request)
     {
         try{
